@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tarik Tambang Layanan SI</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>🏆 Tarik Tambang Layanan Sistem Informasi</h1>
+
+  <div class="upload-area">
+    <p>📁 Upload file soal (.csv):</p>
+    <input type="file" id="csvUpload" accept=".csv">
+    <button id="startGame">Mulai Game</button>
+  </div>
+
+  <div id="gameArea" class="hidden">
+    <div class="scoreboard">
+      <div class="team red">Tim Merah: <span id="scoreRed">0</span></div>
+      <div class="timer">⏱️ <span id="timer">15</span> detik</div>
+      <div class="team blue">Tim Biru: <span id="scoreBlue">0</span></div>
+    </div>
+
+    <div class="question-box">
+      <h2 id="questionText">Soal akan muncul di sini</h2>
+      <div id="options" class="options"></div>
+    </div>
+
+    <div class="arena">
+      <img src="https://i.ibb.co/0B2c4fK/red-char.png" class="character red-char">
+      <div id="rope" class="rope"></div>
+      <img src="https://i.ibb.co/gJddkyD/blue-char.png" class="character blue-char">
+    </div>
+
+    <div class="button-area">
+      <button class="team-btn red" onclick="pressTeam('red')">💪 Tim Merah</button>
+      <button class="team-btn blue" onclick="pressTeam('blue')">💪 Tim Biru</button>
+    </div>
+  </div>
+
+  <div id="result" class="hidden">
+    <h2 id="winnerText"></h2>
+    <button onclick="restartGame()">Main Ulang</button>
+  </div>
+
+  <script src="game.js"></script>
+</body>
+</html>
