@@ -140,3 +140,4 @@ function restartGame() {
   document.getElementById("result").classList.add("hidden");
   document.querySelector(".upload-area").classList.remove("hidden");
 }
+// rebuild
