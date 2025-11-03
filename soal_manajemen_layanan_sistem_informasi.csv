@@ -1,0 +1,21 @@
+No,Soal,Pilihan A,Pilihan B,Pilihan C,Pilihan D,Kunci Jawaban
+1,Tujuan utama dari manajemen layanan sistem informasi adalah?,Mengatur infrastruktur TI,Meningkatkan kepuasan pengguna,Mengurangi jumlah pegawai,Meningkatkan pengeluaran TI,b
+2,Proses ITIL yang berfokus pada pemenuhan permintaan pengguna disebut?,Incident Management,Request Fulfillment,Problem Management,Service Transition,b
+3,Apa yang dimaksud dengan SLA (Service Level Agreement)?,Kontrak kerja antar pegawai,Perjanjian tingkat layanan antara penyedia dan pengguna,Standar operasional prosedur TI,Metode pengujian layanan,b
+4,Langkah pertama dalam siklus hidup layanan menurut ITIL adalah?,Service Operation,Service Design,Service Strategy,Continual Service Improvement,c
+5,Manfaat utama dari Service Desk adalah?,Meningkatkan jumlah tiket masalah,Menyediakan titik kontak tunggal bagi pengguna,Mengelola proyek TI,Menurunkan kinerja sistem,b
+6,Apa yang menjadi fokus utama dalam tahap Service Operation?,Perencanaan layanan,Pengembangan layanan,Pelaksanaan layanan sehari-hari,Analisis kebutuhan pengguna,c
+7,Tujuan dari Incident Management adalah?,Menemukan akar masalah,Mencegah masalah baru,Mengembalikan layanan secepat mungkin,Menutup semua tiket lama,c
+8,Problem Management berfokus pada?,Analisis akar penyebab insiden,Peningkatan kepuasan pengguna,Pengembangan aplikasi baru,Pengaturan prioritas tiket,a
+9,Service Catalog berfungsi sebagai?,Dokumen perjanjian kerja antar tim,Daftar layanan yang tersedia bagi pengguna,Alat pengawasan keamanan,Log aktivitas pengguna,b
+10,Capacity Management bertujuan untuk?,Mengurangi biaya operasional,Mengoptimalkan kinerja dan sumber daya sistem,Meningkatkan jumlah pengguna,Memantau jaringan eksternal,b
+11,Availability Management memastikan bahwa?,Sistem dapat diakses sesuai kebutuhan pengguna,Sistem aman dari serangan,Sistem tidak pernah mati sama sekali,Data terenkripsi dengan baik,a
+12,Change Management dilakukan untuk?,Menolak semua perubahan,Mengontrol perubahan agar tidak mengganggu layanan,Membatasi akses ke sistem,Meningkatkan kompleksitas sistem,b
+13,Service Transition mencakup aktivitas?,Desain layanan baru,Implementasi perubahan layanan,Pemantauan performa layanan,Evaluasi kebutuhan pengguna,d
+14,Konsep Continual Service Improvement menekankan pada?,Inovasi teknologi terbaru,Peningkatan berkelanjutan terhadap layanan,Menggantikan sistem lama,Menghapus proses yang tidak efisien,b
+15,Peran utama dari Configuration Management Database (CMDB) adalah?,Menyimpan konfigurasi dan hubungan antar komponen layanan,Mengelola tiket insiden,Mengontrol biaya operasional,Mengatur jadwal kerja tim,a
+16,IT Governance berfungsi untuk?,Mengatur keuangan perusahaan,Menyelaraskan strategi TI dengan tujuan bisnis,Mengelola server internal,Meningkatkan jumlah karyawan,b
+17,Risiko dalam layanan TI sebaiknya?,Dibiarkan tanpa tindakan,Dikelola secara proaktif melalui manajemen risiko,Dihapus dengan mematikan sistem,Dipindahkan ke departemen lain,b
+18,Key Performance Indicator (KPI) digunakan untuk?,Menilai kinerja layanan berdasarkan metrik tertentu,Mengukur konsumsi listrik,Menghitung biaya hardware,Mengatur jadwal pelatihan,a
+19,"Pada model ITIL, Service Design bertujuan untuk?",Membangun strategi bisnis,Mendesain layanan TI yang efektif dan efisien,Mengatur tim support,Meningkatkan jumlah server,b
+20,"Pada organisasi TI, siapa yang bertanggung jawab utama atas penyediaan layanan?",Service Desk Analyst,Service Owner,System Developer,End User,d
